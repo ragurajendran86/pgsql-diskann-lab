@@ -1,0 +1,11 @@
+psycopg
+psycopg-binary
+psycopg-pool
+pydantic
+openai
+mem0ai
+agent-framework
+nest_asyncio
+ipykernel
+python-dotenv
+azure-identity
